@@ -1,0 +1,2 @@
+whike(true):
+    print("kim");
